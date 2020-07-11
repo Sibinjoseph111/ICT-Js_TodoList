@@ -1,0 +1,19 @@
+h1{
+    color: #ffffff;
+}
+
+.center {
+    margin: auto;
+    
+  }
+
+.checkbox {
+    width: 20px;
+    height: 20px;
+}
+
+label {
+    color: #2f90f7;
+    font-size: 22px;
+    margin-left: 15px;
+}
